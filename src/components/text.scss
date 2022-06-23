@@ -1,0 +1,28 @@
+$myBgcolor:blue ;
+$color:red;
+
+@import "./textColors.scss";  // this file , we can import another file styles to  next file, for that we should create _textColors.scss file, we should click watch symble in the bottom.
+
+
+
+.bg-container{
+    background-color:$myBgcolor;
+}
+
+.heading-main{
+    color:$color2;
+    
+}
+.inside-container{
+    $myBgcolor: yellow !global;
+    background-color: $myBgcolor;
+
+}
+
+
+.title{
+    
+    color:$color;
+
+}
+

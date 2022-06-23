@@ -1,0 +1,37 @@
+$myColor: red;
+
+@import "./colors.scss";
+
+
+
+.initial{
+    $myColor: pink !global;
+    color:$myColor;
+}
+
+
+.second-container{
+    $myColor: green !global;
+    color:$myColor;
+    font-size:$fontSize;
+
+}
+.second-name{
+    $myColor: grey;
+    color:$myColor;
+
+}
+
+
+// h1{
+//     $myColor: green  ;
+    
+//     color:$myColor;
+    
+// }
+
+
+// p{
+//     color:$myColor;
+
+// }

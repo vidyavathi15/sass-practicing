@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAOA,AAAA,aAAa,CAAA;EACT,gBAAgB,EART,IAAI;CASd;;AAED,AAAA,aAAa,CAAA;EACT,KAAK,ECZD,OAAkB;CDczB;;AACD,AAAA,iBAAiB,CAAA;EAEb,gBAAgB,EADJ,MAAM;CAGrB;;AAGD,AAAA,MAAM,CAAA;EAEF,KAAK,EAvBF,GAAG;CAyBT",
+    "sources": [
+        "text.scss",
+        "_textColors.scss"
+    ],
+    "names": [],
+    "file": "text.css"
+}
